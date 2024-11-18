@@ -4658,6 +4658,7 @@ input[type="button"].btn-block {
   background-color: transparent;
   border: 1px solid transparent;
   border-radius: 0.2rem;
+  
 }
 
 .navbar-toggler:hover, .navbar-toggler:focus {
